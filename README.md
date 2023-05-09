@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Engineer focused on data analysis with 1 year of experience in database creation, ETL, analysis and data visualization. Proficient in SQL, Power BI, Python and their data science libraries, with an advanced level of English and a bachelor's degree in civil engineering, as well as several studies in data analysis.
+
+Achieved a 25% reduction in project delays by implementing a machinery maintenance tracking system at my previous job. Also quickly learned a new data visualization tool to create interactive reports for management.
+
+Problem solver, team worker, with a great aptitude for learning and adaptability. Looking for a challenging role in data analytics where you can apply skills and knowledge to help the company make better decisions and advance.
 <!--
 **nicolasmartinsanchez/nicolasmartinsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
